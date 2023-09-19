@@ -1,0 +1,32 @@
+# Mwewe Web Styling
+
+Welcome to the Mwewe Web Styling repository! Here, you'll find HTML and CSS code for styling a webpage with unique text styling and navigation elements.
+
+## Description
+
+This project demonstrates various CSS styling techniques applied to HTML content. Key highlights include:
+
+- Creative text styling using CSS pseudo-elements.
+- Navigation menu with hyperlinks.
+- Background color and font adjustments.
+
+## Preview
+
+For a preview of the styled webpage, you can visit [this link](#) or follow the instructions below to set it up locally.
+
+## Local Setup
+
+To set up this project locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser to see the styled webpage.
+
+## Usage
+
+Feel free to explore the HTML and CSS code to learn about different styling techniques. You can also modify and adapt the code for your own projects.
+
+## License
+
+This project is under the [MIT License](LICENSE).
+
+Happy coding!
